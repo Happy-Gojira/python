@@ -1,4 +1,4 @@
-conversion_map = {
+ conversion_map = {
 	"inch cm":1.0/2.54,
 	"cm inch":2.54
 };
